@@ -1,0 +1,67 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    background-color: #1f1f1f;
+    border: none;
+}
+
+.card-header {
+    background-color: #333333;
+    border-bottom: 1px solid #444444;
+}
+
+.card-body {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #444444;
+}
+
+.message p {
+    margin: 0;
+}
+
+.input-group {
+    background-color: #1f1f1f;
+}
+
+.input-group .form-control {
+    background-color: #333333;
+    border: none;
+    color: #ffffff;
+}
+
+.input-group .form-control:focus {
+    background-color: #444444;
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.alert-danger {
+    background-color: #ff4444;
+    border: none;
+}
